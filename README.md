@@ -1,4 +1,4 @@
-# Corretor de Banco de Dados Corrompido em Python
+# Corretor de Banco de Dados corrompido em Python
 
 Programa para recuperação de um banco de dados corrompido em JSON:
 
